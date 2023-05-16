@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044060610251",
+    "project_id": "attendance-4afd2",
+    "storage_bucket": "attendance-4afd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044060610251:android:d7d70b32429cbdeaf2854e",
+        "android_client_info": {
+          "package_name": "com.example.favourone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044060610251-5pan2c86r0n2jql927ne8kj9k24spvr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0reMWw80dXe5EX0p1v6mI9H4_EWRbGVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044060610251-5pan2c86r0n2jql927ne8kj9k24spvr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
